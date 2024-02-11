@@ -1,7 +1,8 @@
 ﻿using System.Diagnostics;
 
 const int THREADS_NUMBER = 4; // число потоков
-const int N = 1000000;   // размер массива
+const int N = 10000000;   // размер массива
+object locker = new object();
 
 
 //сортировка подсчетом
@@ -66,7 +67,10 @@ void CountingSortParallel(int[] inputArray, int[] counters, int offset, int star
 {
     for (int i = startPos; i < endPos; i++)
     {
+        lock (locker)
+        {
         counters[inputArray[i] + offset]++;
+        }
     }
 }
 

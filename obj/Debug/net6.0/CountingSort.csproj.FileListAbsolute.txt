@@ -13,3 +13,18 @@ D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.dll
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\ref\CountingSort.dll
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.pdb
 D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\bin\Debug\net6.0\CountingSort.exe
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\bin\Debug\net6.0\CountingSort.deps.json
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\bin\Debug\net6.0\CountingSort.runtimeconfig.json
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\bin\Debug\net6.0\CountingSort.dll
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\bin\Debug\net6.0\CountingSort.pdb
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfoInputs.cache
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfo.cs
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.sourcelink.json
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.dll
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\refint\CountingSort.dll
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.pdb
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
+C:\Users\АНДРЕЙ\Desktop\Учеба\Параллельные вычисления\CountingSort\obj\Debug\net6.0\ref\CountingSort.dll
